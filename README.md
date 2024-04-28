@@ -13,4 +13,4 @@ demonstrations during this exercise were performed using Docker Desktop v4.24.2.
 The project discusses Docker and describes the relationship between Docker Images, Docker 
 Containers, and Docker files. A brief discussion on the phrase “don’t use docker-compose in 
 production” summarizes the student’s opinion on the phrase with a closer look at the challenges of 
-implementing a dockerize microservice application and deploying containers using docker-compose.
+implementing a dockerize microservice application and deploying containers using docker-compose .
